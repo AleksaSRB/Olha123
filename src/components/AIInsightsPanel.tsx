@@ -100,7 +100,7 @@ export const AIInsightsPanel = ({ companies }: AIInsightsPanelProps) => {
             </div>
           ))}
           {topPerformers.length === 0 && (
-            <p className="text-sm text-muted-foreground">No companies with >20% growth</p>
+            <p className="text-sm text-muted-foreground">No companies with {'>'} 20% growth</p>
           )}
         </CardContent>
       </Card>
