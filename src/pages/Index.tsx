@@ -61,7 +61,7 @@ const Index = () => {
             <div className="flex items-center justify-between">
               <div>
                 <h1 className="text-3xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
-                  Portfolio Dashboard
+                  Kamil's Dashboard
                 </h1>
                 <p className="text-muted-foreground flex items-center gap-2">
                   Monitor your portfolio companies' performance
